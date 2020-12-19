@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Bootstrap 4 Autocomplete",
+		"Colorsublime",
+		"Dayle Rees Color Schemes",
+		"DocBlockr",
+		"Dockerfile Syntax Highlighting",
+		"Emmet",
+		"GitHub Markdown Snippets",
+		"jQuery",
+		"Laravel Blade Highlighter",
+		"LiveReload",
+		"MarkdownEditing",
+		"MarkdownPreview",
+		"Package Control",
+		"PHP Companion",
+		"PHP CS Fixer",
+		"Pug",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"SynthWave 84 - Color Scheme"
+	]
+}
